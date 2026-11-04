@@ -123,3 +123,5 @@ I am actively interviewing and preparing for **Software Engineering Internship**
 <div align="center">
   <sub>Designed with ❤️ by Mohamed Lithaf Awfadh</sub>
 </div>
+
+<!-- Verified SWE Portfolio by Mohamed Lithaf Awfadh -->
